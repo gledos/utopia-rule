@@ -104,7 +104,7 @@ markdown_extensions:
 #     tags: 'a script img link object embed'
 # - pymdownx.caret        # 上标、下划线
 # - pymdownx.smartsymbols # 1st 2en 以及特殊符号
-# - pymdownx.tilde        # 下标
+- pymdownx.tilde          # 下标、删除线
 
 plugins:
 - glightbox:               # 添加灯箱功能    https://squidfunk.github.io/mkdocs-material/reference/images/#lightbox
