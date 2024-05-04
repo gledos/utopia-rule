@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block extrahead %}
+    <meta property="robots" content="noindex, nofollow" />
+{% endblock %}
+
 {% block styles %}
     {{ super() }}
 <!-- 下面的「黑幕（刮刮乐）」CSS 来自：-->
