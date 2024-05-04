@@ -166,13 +166,13 @@ plugins:
 # - autolinks
 - exclude:
     glob:
-    - "src/_HD_/*"
-    - "mkdocs/本地/*"
-    - "*.tmp"
+    - ".trash/*"
     - "*.gz"
+    - "*.tmp"
     - "encryption/*"
     - "liquid/*"
-    - ".trash/*"
+    - "mkdocs/本地/*"
+    - "src/_HD_/*"
     - "templates/*"
     # regex:
     # - '.*\.(tmp|bin|tar)$'
