@@ -197,6 +197,11 @@ plugins:
       - 群员大会章程
       size: 50
       template: overrides/custom-blog.html
+    - name: group-basic-law
+      dirs:
+      - 群基本法
+      size: 50
+      template: overrides/custom-blog.html
     # categories:
     # - name: activities
     #   dirs:

@@ -11,8 +11,8 @@ exclude_from_blog: true
 
 ## 前言
 
-〔待续（001）〕
+〔待续〕
 
 > [!note]+ 最近更新
 >
-> {{ blog_content group-administrator-election-method  }}
+> {{ blog_content group-administrator-election-method }}
