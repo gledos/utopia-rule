@@ -15,4 +15,4 @@ exclude_from_blog: true
 
 > [!note]+ 最近更新
 >
-> {{ blog_content qgnyxjf }}
+> {{ blog_content group-administrator-election-method  }}

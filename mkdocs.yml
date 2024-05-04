@@ -186,9 +186,14 @@ plugins:
     dirs: # The directories to be included
     - blog
     categories:
-    - name: qgnyxjf
+    - name: group-administrator-election-method
       dirs:
       - 群管理员选举法
+      size: 50
+      template: overrides/custom-blog.html
+    - name: constitution-of-the-group-meeting
+      dirs:
+      - 群员大会章程
       size: 50
       template: overrides/custom-blog.html
     # categories:
