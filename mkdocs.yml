@@ -187,19 +187,29 @@ plugins:
     dirs: # The directories to be included
     - blog
     categories:
+    - name: removal-of-parliament-convener-and-administrator-act
+      dirs:
+      - 罢免议会召集人和管理员法
+      size: 50
+      template: overrides/custom-blog.html
+    - name: expulsion-group-member-law
+      dirs:
+      - 驱逐群员法
+      size: 50
+      template: overrides/custom-blog.html
     - name: group-administrator-election-method
       dirs:
       - 群管理员选举法
       size: 50
       template: overrides/custom-blog.html
-    - name: constitution-of-the-group-meeting
-      dirs:
-      - 群员大会章程
-      size: 50
-      template: overrides/custom-blog.html
     - name: group-basic-law
       dirs:
       - 群基本法
+      size: 50
+      template: overrides/custom-blog.html
+    - name: group-legislation-act
+      dirs:
+      - 群立法法
       size: 50
       template: overrides/custom-blog.html
     # categories:
