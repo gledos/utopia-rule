@@ -220,8 +220,8 @@ plugins:
     #   template: overrides/custom-blog.html
 - redirects:              # 重定向插件                https://github.com/datarobot/mkdocs-redirects
     redirect_maps:
+      "群员大会章程/index.md": "群立法法/index.md"
       # "catch_the_wind/KOL_前台实名.md": "censorship/实名制.md#kol-前台实名显示"
-
 extra:
   generator: false
   social:
