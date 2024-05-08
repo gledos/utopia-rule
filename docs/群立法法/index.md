@@ -83,7 +83,7 @@ exclude_from_blog: true
 
 [^40742]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1998301990&post=40742), <https://t.me/c/1998301990/40742>
 
-通过的《群立法发》，时间戳为 [202405072103](202405072103.md)。
+通过的《群立法法》，时间戳为 [202405072103](202405072103.md)。
 
 ## 版本历史
 
