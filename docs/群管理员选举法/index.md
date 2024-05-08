@@ -22,9 +22,9 @@ exclude_from_blog: true
 
 [^39040]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1998301990&post=39040), <https://t.me/c/1998301990/39040>
 
-2024年5月6日 00:01 表决截止，根据计票结果，《群管理员选举法》（20240505）通过，[^39041] 计票情况如下：
+2024年5月6日 00:01 表决截止，根据计票结果，《群管理员选举法》（20240505）通过，[^40300] 计票情况如下：
 
-[^39041]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1998301990&post=40300), <https://t.me/c/1998301990/40300>
+[^40300]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1998301990&post=40300), <https://t.me/c/1998301990/40300>
 
 ???+ success "《群管理员选举法》（20240505）计票情况"
 
