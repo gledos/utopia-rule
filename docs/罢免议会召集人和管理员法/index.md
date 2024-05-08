@@ -1,5 +1,5 @@
 ---
-title: 群管理员选举法
+title: 罢免议会召集人和管理员法
 description:
 published: true
 date: "2024-02-05T22:17:09"
@@ -11,7 +11,7 @@ exclude_from_blog: true
 
 ## 前言
 
-2024年5月5日，SunSet 发布了《罢免议会召集人和管理员法》（草案），时间戳为 [202405051800](202405051800.md) 的。[^21]
+2024年5月5日，SunSet 发布了《罢免议会召集人和管理员法》（草案），时间戳为 [202405051800](202405051800.md)。[^21]
 
 [^21]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1618956185&post=21), <https://t.me/jgp_draft/21>
 
@@ -22,8 +22,8 @@ exclude_from_blog: true
 
 [^41496]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1998301990&post=41496), <https://t.me/c/1998301990/41496>
 
-2024年5月8日，原本 18:48 的停止公示并投票的时间，投票时间被提前到 05:47。需要表决 《罢免议会召集人和管理员法》（草案）、
-《驱逐群员法》（草案）。[^42115]
+2024年5月8日，原本 18:48 的停止公示并投票的时间，投票时间被提前到 05:47。
+投票是表决 《罢免议会召集人和管理员法》（草案）、《驱逐群员法》（草案）。[^42115]
 
 [^42115]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1998301990&post=42115), <https://t.me/c/1998301990/42115>
 
@@ -58,10 +58,6 @@ exclude_from_blog: true
 success ⭕️
 failure ❌
 -->
-
-## 最新版本
-
-![202405061410.md](202405061410.md)
 
 ## 版本历史
 
