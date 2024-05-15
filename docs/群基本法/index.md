@@ -23,10 +23,8 @@ exclude_from_blog: true
 
 [^41645]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1998301990&post=41645), <https://t.me/c/1998301990/41645>
 
-该表决预计在 2024年5月8日 21:08 表决截止。
-
-<!--
-，根据计票结果，《群基本法》（草案）通过，[^39041] 计票情况如下：
+该表决在 2024年5月8日 21:08 表决截止。根据计票结果，《群基本法》（草案）通过，[^39041]
+通过的时间戳为 [202405082108](202405082108.md)，计票情况如下：
 
 [^39041]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1998301990&post=40300), <https://t.me/c/1998301990/40300>
 
@@ -34,7 +32,7 @@ exclude_from_blog: true
 
     ??? question inline end "表决  《群基本法》 （草案） #politics[^41645]"
 
-        2024年5月6日 00:05截止<br>
+        2024年5月8日 21:08 截止<br>
         \#politics #poll
 
         + [ ] 赞成
@@ -43,13 +41,11 @@ exclude_from_blog: true
 
     ```mermaid
     pie showData
-        title 202405051943 计票情况
-        "赞成" : xxxxxx
-        "反对" : xxxxxx
-        "弃权" : xxxxxx
+        title 《群基本法》（草案）计票情况
+        "赞成" : 16
+        "反对" : 1
+        "弃权" : 1
     ```
-
--->
 
 ## 版本历史
 

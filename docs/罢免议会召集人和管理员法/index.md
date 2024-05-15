@@ -27,17 +27,12 @@ exclude_from_blog: true
 
 [^42115]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1998301990&post=42115), <https://t.me/c/1998301990/42115>
 
-预计在 2024年5月9日 18:48，表决截止。
+2024年5月9日 18:48，表决截止。《罢免议会召集人和管理员法》（草案）通过，[^38439]
+通过的时间戳为 [202405091848](202405091848.md)，计票情况如下：
 
-<!--
-《群员大会章程》（<ruby>正式提案<rt>202405041606</rt></ruby>）通过，计票情况如下：
+???+ success "《罢免议会召集人和管理员法》（草案）计票情况"
 
-???+ success "《群员大会章程》（<ruby>正式提案<rt>202405041606</rt></ruby>）计票情况"
-
-    ??? question inline end "表决 《群员大会章程》（正式提案）[^38439]"
-
-        2024年5月5日 16:13截止<br>
-        \#poll #politics
+    ??? question inline end "表决 《罢免议会召集人和管理员法》（草案）、《驱逐群员法》（草案）  20240509 1848截止 #politics[^38439]"
 
         + [ ] 赞成
         + [ ] 反对
@@ -45,14 +40,13 @@ exclude_from_blog: true
 
     ```mermaid
     pie showData
-        title 202405041606 计票情况
-        "赞成" : 15
+        title （草案）计票情况
+        "赞成" : 14
         "反对" : 2
-        "弃权" : 2
+        "弃权" : 4
     ```
 
-[^38439]: <https://t.me/c/1998301990/38439>
--->
+[^38439]: [:simple-telegram: 在 Telegram 打开](tg://privatepost?channel=1998301990&post=38439), <https://t.me/c/1998301990/38439>
 
 <!--
 success ⭕️
